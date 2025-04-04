@@ -1,0 +1,14 @@
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\obj\Debug\net9.0\FIFO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\obj\Debug\net9.0\FIFO1.AssemblyInfoInputs.cache
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\obj\Debug\net9.0\FIFO1.AssemblyInfo.cs
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\obj\Debug\net9.0\FIFO1.csproj.CoreCompileInputs.cache
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\bin\Debug\net9.0\FIFO1.exe
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\bin\Debug\net9.0\FIFO1.deps.json
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\bin\Debug\net9.0\FIFO1.runtimeconfig.json
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\bin\Debug\net9.0\FIFO1.dll
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\bin\Debug\net9.0\FIFO1.pdb
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\obj\Debug\net9.0\FIFO1.dll
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\obj\Debug\net9.0\refint\FIFO1.dll
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\obj\Debug\net9.0\FIFO1.pdb
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\obj\Debug\net9.0\FIFO1.genruntimeconfig.cache
+C:\Users\mndo2\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\FIFO\FIFO\obj\Debug\net9.0\ref\FIFO1.dll

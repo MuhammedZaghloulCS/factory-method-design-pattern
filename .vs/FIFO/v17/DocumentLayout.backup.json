@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mndo2\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\FIFO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD749E5-8133-478B-8F8D-E3F596E9B6F5}|FIFO\\FIFO1.csproj|c:\\users\\mndo2\\documents\\visual studio 2022\\templates\\projecttemplates\\c#\\fifo\\fifo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD749E5-8133-478B-8F8D-E3F596E9B6F5}|FIFO\\FIFO1.csproj|solutionrelative:fifo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD749E5-8133-478B-8F8D-E3F596E9B6F5}|FIFO\\FIFO1.csproj|c:\\users\\mndo2\\documents\\visual studio 2022\\templates\\projecttemplates\\c#\\fifo\\fifo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD749E5-8133-478B-8F8D-E3F596E9B6F5}|FIFO\\FIFO1.csproj|solutionrelative:fifo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mndo2\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\FIFO\\FIFO\\Class1.cs",
+              "RelativeDocumentMoniker": "FIFO\\Class1.cs",
+              "ToolTip": "C:\\Users\\mndo2\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\FIFO\\FIFO\\Class1.cs",
+              "RelativeToolTip": "FIFO\\Class1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAC8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:21:53.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mndo2\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\FIFO\\FIFO\\Program.cs",
+              "RelativeDocumentMoniker": "FIFO\\Program.cs",
+              "ToolTip": "C:\\Users\\mndo2\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\FIFO\\FIFO\\Program.cs",
+              "RelativeToolTip": "FIFO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:08:37.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
