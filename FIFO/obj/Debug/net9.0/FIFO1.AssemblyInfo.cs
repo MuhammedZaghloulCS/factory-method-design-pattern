@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FIFO1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2101fbc61b0924eab51ae2d9a82b69fcc23e029b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FIFO1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FIFO1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
