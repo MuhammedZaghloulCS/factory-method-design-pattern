@@ -3,35 +3,39 @@ namespace FIFO1
 {
     class Program
     {
-        private static void Main(string[]args)
+        public static void Main()
         {
-            /*var x=new EmployeesManagement();
-            var em = new Employee1[] {
-                new Employee1(1,"Muhammed",'m',15000),
-                 new Employee1(2, "Ahmed", 'm', 13000),
-                 new Employee1(3, "Mahmoud", 'm', 1000)
+            Manager manager = new Manager { 
+                ID= 1,
+                LoggedHours = 180,
+                Name="Muhammed",
+                Wage=200
             };
-
-
-
-           x.ClassifyTheEmployees(em, "less than 5000", (Employee1 em) =>  em.TotalSales < 5000 );
-            x.ClassifyTheEmployees(em, "more than 5000", (Employee1 em) => em.TotalSales > 5000);
-            */
-
-            Event e = new Event();
-            e.ScoreUpdate += (int newScore) => { if (newScore >= 100) Console.WriteLine("Win"); };
-
-            e.Score=0;
-            e.Score = 50;
-
-            e.Score = 100;
-
-
-
-
-
-
+            Maintenance maintenance = new Maintenance
+            {
+                ID = 1,
+                LoggedHours = 180,
+                Name = "Muhammed",
+                Wage = 200
+            };
+            Sales sales = new Sales
+            {
+                ID = 1,
+                LoggedHours = 180,
+                Name = "Muhammed",
+                Wage = 200
+            };
+            Developer Dev = new Developer
+            {
+                ID = 1,
+                LoggedHours = 180,
+                Name = "Muhammed",
+                Wage = 200
+            };
+            Console.WriteLine( manager.ToString());
+            Console.WriteLine(maintenance.ToString());
+            Console.WriteLine(Dev.ToString());
+            Console.WriteLine(sales.ToString());
         }
-    } 
-
+    }
 }
